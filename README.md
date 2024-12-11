@@ -21,3 +21,7 @@ This app is designed to provide an interactive photo gallery experience, allowin
 4. **Data Persistence:** How to use Room to store and retrieve data locally for offline functionality.
 5. **UI and UX Design:** How to design a responsive and interactive user interface for a gallery app.
 6. **Asynchronous Processing:** How to manage API calls and image loading using Kotlin Coroutines for efficient performance.
+
+**Quick demo of the app:**
+
+[screen-recording-20241211-180941_X67qrvoS.webm](https://github.com/user-attachments/assets/79170c39-ce8e-41c4-bb95-bb8a2fbba27b)
